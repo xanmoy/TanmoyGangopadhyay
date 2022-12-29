@@ -35,16 +35,17 @@ I am an Indian, I am from Kolkata West Bengal.
 
 - 🌱 I am currently know and learning
 
--C
--Python
--Javascript
--C++
--HTML
--CSS
--Nodejs
--Java
--Bootstrap
--Tailwind CSS
+- C
+- Python
+- Javascript
+- C++
+- HTML
+- CSS
+- Nodejs
+- Java
+- Bootstrap
+- Tailwind CSS
+- MATLAB
 ----------------------------------------------------------------------------------- 
 
 
