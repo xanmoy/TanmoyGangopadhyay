@@ -5,10 +5,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on [Portfolio]([https://www.tanmoygangopadhyay.ml]
+- 🔭 I’m currently working on [Portfolio]([https://www.tanmoygangopadhyay.ml])
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Open-source Project
-- 🤔 I’m looking for help with [Zero AI]([https://www.zeroai.ml]
+- 🤔 I’m looking for help with [Zero AI]([https://www.zeroai.ml])
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: mail me at tanmoygangopadhyay@outlook.com
 <!-- - 😄 Pronouns: ...
@@ -33,7 +33,7 @@ I am an Indian, I am from Kolkata West Bengal.
  -->
 -----------------------------------------------------------------------------------
 
-- 🌱 I am currently know and learning
+### 🌱 I am currently know and learning
 
 - C
 - Python
