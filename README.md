@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Open-source Project
 - 🤔 I’m looking for help with [Zero AI](https://www.zeroai.ml)
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: mail me at tanmoygangopadhyay@outlook.com
+- 📫 How to reach me: mail me at tanmoyganguly@yandex.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
